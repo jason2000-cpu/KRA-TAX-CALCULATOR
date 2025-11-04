@@ -71,4 +71,17 @@ This project was created to:
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/jason2000-cpu/KRA-TAX-CALCULATOR.git
+```
+
+
+### 2️⃣ Open the Project
+
+Navigate to the project folder:
+
+cd KRA-TAX-CALCULATOR
+
+### 3️⃣ Run Locally
+
+Simply open the file index.html in your browser.
+No installations or servers needed — it runs entirely in your browser!
 
